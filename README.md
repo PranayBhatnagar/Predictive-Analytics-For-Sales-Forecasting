@@ -78,7 +78,7 @@ The dataset used is sourced from [Big Mart Sales Prediction Dataset](https://dat
 
 ## Results
 
-The XGBoost model achieved an R² score of `r2_train` on the training set and `r2_test` on the testing set, indicating good predictive performance.
+The XGBoost model achieved an R² score of `0.8762174618111388` on the training set and `0.5017253991620692` on the testing set, indicating good predictive performance.
 
 ## How to Run
 
