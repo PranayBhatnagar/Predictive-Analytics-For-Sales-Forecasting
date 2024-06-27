@@ -4,6 +4,7 @@ This project focuses on leveraging machine learning techniques to predict sales 
 
 Visualizations include distribution plots of key variables like item weights and sales, categorical feature counts such as item types and outlet sizes, and time-series representations of sales trends over establishment years. These visuals facilitate understanding patterns and relationships crucial for predictive modeling and strategic planning in retail operations.
 
+
 ## Content
 
 - Objective
