@@ -2,7 +2,18 @@
 
 This project focuses on leveraging machine learning techniques to predict sales based on a decade's worth of retail data. It aims to enhance business decision-making by providing accurate forecasts and actionable insights derived from comprehensive data analysis and modeling.
 
+
+
+![1](https://github.com/PranayBhatnagar/Predictive-Analytics-For-Sales-Forecasting/assets/108617140/4eec3fc0-b3c9-4b2b-b87b-d97040a9252e)
+
+
+
 Visualizations include distribution plots of key variables like item weights and sales, categorical feature counts such as item types and outlet sizes, and time-series representations of sales trends over establishment years. These visuals facilitate understanding patterns and relationships crucial for predictive modeling and strategic planning in retail operations.
+
+
+
+![2](https://github.com/PranayBhatnagar/Predictive-Analytics-For-Sales-Forecasting/assets/108617140/295e19e2-2704-460d-981f-2418fb9c68a7)
+
 
 
 ## Content
